@@ -36,12 +36,12 @@ Here we are giving war package format
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.46.199:8081/repository/anitha-releasae/</url>
+            <url>http://192.168.46.213:8081/repository/anitha-releasae/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.46.199:8081/repository/anitha-snapshot/</url>
+            <url>http://192.168.46.213:8081/repository/anitha-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
